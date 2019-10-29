@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+}
+
+p1 {
+    color: red;
+}
+
+p2 {
+    color: blue;
+}
+
+p3{
+    color: green;
+}
+
+p4{
+    font-size: 150%;
+}
+
+p5{
+    font-size: 50%;
+}
+
+p6{
+    text-align: center;
+}
+
+p7{
+    font-weight: bold;
+}
+
+p8{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p9{
+    font-size: 250%;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont{
+    color: pink;
+    font-weight: 1000;
+    font-size: 175%;
+    text-align: right;
+}
+
+img{
+    padding:3px;
+    border:1px solid lime;
+    background-color:darkgreen;
+}
