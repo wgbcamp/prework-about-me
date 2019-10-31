@@ -1,0 +1,30 @@
+Issues found in BrokenCode folder:
+
+
+BOOTHEDOG.HTML
+Title of the page within the body is missing <h1>, added to restore text appearance
+
+Cleaned up vandalization instructions.
+
+Completed name in panel heading "About Boo."
+
+Cleaned up formatting in "about boo" section and restored font type.
+
+Added wikipedia link between quotes to allow clicking on link to actually take user to the wikipedia webpage.
+
+Added "<>" to img element to allow photo of Boo the Dog to appear.
+
+Linked javascript file "logic.js" in html file to allow random facts button to work.
+
+Added ordered list to List of Boo's favorite things.
+
+Moved Grow/Shrink buttons and Orange/Pink/Green buttons as well as the elements they manipulate back above the facts section.
+
+Changed button text color names to their appropriate function.
+
+LOGIC.JS
+added quotation marks between strings in array to cause all facts to appear when clicking on Random Boo Fact.
+
+Added quotation marks around click action for Grow and Shrink buttons to allow function to manipulate the image.
+
+Added quotation marks to color "pink" for #funText to allow changing to color pink.
